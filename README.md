@@ -1,1 +1,1 @@
-## Onegai
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=onegai0&hide_title=true&langs_count=8&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=onegai0&hide_title=true&langs_count=8&theme=dark)
